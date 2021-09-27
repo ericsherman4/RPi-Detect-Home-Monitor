@@ -1,0 +1,1 @@
+Create an answer.txt file and past the edid outputs for your home monitor there. Put this in the same directory as the script.

@@ -1,0 +1,47 @@
+Enabling fuzzy format match...
+Parsing edid.dat...
+HDMI:EDID version 1.3, 1 extensions, screen size 53x30 cm
+HDMI:EDID features - videodef 0x80 !standby !suspend active off; colour encoding:RGB444|YCbCr422; sRGB is not default colourspace; preferred format is native; does not support GTF
+HDMI:EDID found monitor range descriptor tag 0xfd
+HDMI:EDID monitor range offsets: V min=0, V max=0, H min=0, H max=0
+HDMI:EDID monitor range: vertical is 50-60 Hz, horizontal is 30-80 kHz, max pixel clock is 170 MHz
+HDMI:EDID monitor range does not support GTF
+HDMI:EDID found monitor name descriptor tag 0xfc
+HDMI:EDID monitor name is HP_VH240a
+HDMI:EDID found monitor S/N descriptor tag 0xff
+HDMI:EDID found preferred CEA detail timing format: 1920x1080p @ 60 Hz (16)
+HDMI:EDID established timing I/II bytes are A1 08 00
+HDMI:EDID found DMT format: code 4, 640x480p @ 60 Hz in established timing I/II
+HDMI:EDID found DMT format: code 9, 800x600p @ 60 Hz in established timing I/II
+HDMI:EDID found DMT format: code 16, 1024x768p @ 60 Hz in established timing I/II
+HDMI:EDID standard timings block x 8: 0xD1C0 81C0 A9C0 B300 9500 8100 8180 0101 
+HDMI:EDID found DMT format: code 82, 1920x1080p @ 60 Hz (16:9) in standard timing 0
+HDMI:EDID found DMT format: code 85, 1280x720p @ 60 Hz (16:9) in standard timing 1
+HDMI:EDID found DMT format: code 83, 1600x900p @ 60 Hz (16:9) in standard timing 2
+HDMI:EDID found DMT format: code 58, 1680x1050p @ 60 Hz (16:10) in standard timing 3
+HDMI:EDID found DMT format: code 47, 1440x900p @ 60 Hz (16:10) in standard timing 4
+HDMI:EDID found DMT format: code 28, 1280x800p @ 60 Hz (16:10) in standard timing 5
+HDMI:EDID found DMT format: code 35, 1280x1024p @ 60 Hz (5:4) in standard timing 6
+HDMI:EDID parsing v3 CEA extension 0
+HDMI:EDID monitor support - underscan IT formats:yes, basic audio:yes, yuv444:yes, yuv422:yes, #native DTD:1
+HDMI:EDID found CEA detail timing format: 1920x1080p @ 60 Hz (16)
+HDMI:EDID found CEA detail timing format: 1920x1080p @ 50 Hz (31)
+HDMI:EDID found CEA format: code 16, 1920x1080p @ 60Hz (native)
+HDMI:EDID found CEA format: code 31, 1920x1080p @ 50Hz 
+HDMI:EDID found CEA format: code 4, 1280x720p @ 60Hz 
+HDMI:EDID found CEA format: code 19, 1280x720p @ 50Hz 
+HDMI:EDID found CEA format: code 3, 720x480p @ 60Hz 
+HDMI:EDID found CEA format: code 18, 720x576p @ 50Hz 
+HDMI:EDID found CEA format: code 2, 720x480p @ 60Hz 
+HDMI:EDID found CEA format: code 17, 720x576p @ 50Hz 
+HDMI:EDID found CEA format: code 1, 640x480p @ 60Hz 
+HDMI:EDID found audio format 2 channels PCM, sample rate: 32|44|48 kHz, sample size: 16|20|24 bits
+HDMI:EDID found HDMI VSDB length 8
+HDMI:EDID HDMI VSDB has physical address 1.0.0.0
+HDMI:EDID HDMI VSDB supports AI:no, dual link DVI:no
+HDMI:EDID HDMI VSDB deep colour support - 48-bit:no 36-bit:no 30-bit:no DC_yuv444:no
+HDMI:EDID HDMI VSDB max TMDS clock 170 MHz
+HDMI:EDID HDMI VSDB does not support content type
+HDMI:EDID found Video Capability DB length 2
+HDMI:EDID video capability: CE:3 IT:2 PT:2 QS:0
+HDMI:EDID filtering formats with pixel clock unlimited MHz or h. blanking unlimited
